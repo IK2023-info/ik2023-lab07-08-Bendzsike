@@ -1,0 +1,21 @@
+1. Lényeges információ:
+	Minden példa úgy van besorolva, hogy a mérleg jobb 
+	vagy bal oldalára dől-e. Ha a kiszámított két érték
+	egyforma, akkor kiegyensúlyozott. Az attribútumok 
+	jelentik a bal oldali súlyt, a bal távolságot, a jobb 
+	oldali súlyt és jobb távolságot. Az osztály megtalálásának 
+	helyes módja a közülük nagyobb (bal távolság * bal súly 
+	vagy jobb távolság * jobb súly) érték megtalálása. Ha 
+	ezek egyenlőek, akkor kiegyensúlyozottnak tekintjük.
+
+2. Attribútumok száma: 4 (numerikus) + osztálynév = 5
+
+3. Attribútum információ:
+	1. Osztály neve: 3 (L, B, R)
+	2. Bal oldali súly: 5 (1, 2, 3, 4, 5)
+	3. Bal távolság: 5 (1, 2, 3, 4, 5)
+	4. Jobb oldali súly: 5 (1, 2, 3, 4, 5)
+	5. Jobb távolság: 5 (1, 2, 3, 4, 5)
+
+4. Vigyázat:
+	Az adatok között van helytelen adat is, először tisztítsuk meg a bemeneti adatokat.
